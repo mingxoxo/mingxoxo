@@ -6,7 +6,7 @@
 
 ## Interests
 - `Computer Vision` 
-- `Machine Learning` 
+- `Machine Learning` /  `Deep Learning` 
 
 ## Language
 - C 
