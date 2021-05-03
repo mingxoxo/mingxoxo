@@ -37,6 +37,7 @@
 - [Image stitching](https://mingxoxo-record.tistory.com/60)
   <br>: 3개의 이미지 Panorama 구현
   - C++
+  - OpenCV
 
 - [Paiks Recipe](https://github.com/mingxoxo/web-programming-project)
   <br>: 백종원선생님의 유튜브 요리 강의를 외국인들이 한번에 볼 수 있는 사이트 구현
