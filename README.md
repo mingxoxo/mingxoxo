@@ -5,6 +5,7 @@
 - 18'~22', [Dept. of Intelligent Mechatronic Engineering](http://imc.sejong.ac.kr/page/sub2_1)
 
 ## Interests
+- `Data Analysis` 
 - `Computer Vision` 
 - `Machine Learning` /  `Deep Learning` 
 
@@ -14,6 +15,7 @@
 - MATLAB
 - Java
 - HTML & CSS
+- QGIS
 
 ## Skill
 - OpenCV (Python)
