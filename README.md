@@ -3,34 +3,47 @@
 
 > 포트폴리오 정리
 - 18'~22', [Dept. of Intelligent Mechatronic Engineering](http://imc.sejong.ac.kr/page/sub2_1)
+- 📨 yesuel1111@naver.com
 
-## Interests
+
+### ✨ Interests
 - `Data Analysis` 
 - `Computer Vision` 
 - `Machine Learning` /  `Deep Learning` 
+<br>
 
-## Language
-- C 
-- Python3
-- MATLAB
-- Java
-- HTML & CSS
-- QGIS
+### 🛠 Major Tech Stack
+<div>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"> 
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"> 
+<img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/Qgis-589632?style=flat&logo=Qgis&logoColor=white">
+</div>
 
-## Skill
-- OpenCV (Python)
-- pytorch
-- Embedded Board
-  - Arduino 
-- Android Studio (Java)
----
+<br>
+<details>
+<summary> Minor Tech Stack </summary><br>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white">
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white">
+</div>
+</details>
 
-### Experience
+<br>
+
+### ⚡ Experience
 
 - Sejong Univ. C/Python programming class TA, September 2019 - Present
 - [kaggle study](https://github.com/Sejong-Kaggle-Challengers/jeongmin), December 2021 - Present
 
-### Project
+<br>
+
+### 🔥 Project
 
 - [DON-T_WORRY_MAMA_PAPA](https://github.com/mingxoxo/SW_DON-T_WORRY_MAMA_PAPA.git)
   <br>: 어린이집 차량 운행 후 빈 차량에 내리지 못하고 남아있는 어린이를 확인할 수 있는 센서와 어플 제작
