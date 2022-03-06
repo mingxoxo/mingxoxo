@@ -36,10 +36,11 @@
 
 <br>
 
-### ⚡ Experience
+### ⚡ Experience and Study
 
 - Sejong Univ. C/Python programming class TA, September 2019 - Present
 - [kaggle study](https://github.com/Sejong-Kaggle-Challengers/jeongmin), December 2021 - Present
+- [Algorithm study](https://mingxoxo.notion.site/d7644efa18864a4eab2337f5b22d0abc), - Present
 
 <br>
 
