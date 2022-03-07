@@ -39,7 +39,7 @@
 ### ⚡ Experience and Study
 
 - Sejong Univ. C/Python programming class TA, September 2019 - June 2021
-- [kaggle study](https://github.com/Sejong-Kaggle-Challengers/jeongmin), December 2020 - March 2021
+- [kaggle study(Dacon study)](https://github.com/Sejong-Kaggle-Challengers/jeongmin), December 2020 - March 2021
 - [Algorithm study](https://mingxoxo.notion.site/d7644efa18864a4eab2337f5b22d0abc), - Present
 
 <br>
