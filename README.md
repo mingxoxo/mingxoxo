@@ -48,7 +48,7 @@
 
 - [DON-T_WORRY_MAMA_PAPA](https://github.com/mingxoxo/SW_DON-T_WORRY_MAMA_PAPA.git)
   <br>: 어린이집 차량 운행 후 빈 차량에 내리지 못하고 남아있는 어린이를 확인할 수 있는 센서와 어플 제작
-  - Aduino / App Inventor
+  - Arduino / App Inventor
 
 - [Image stitching](https://mingxoxo-record.tistory.com/60)
   <br>: 3개의 이미지 Panorama 구현
