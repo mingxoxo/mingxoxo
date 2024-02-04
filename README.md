@@ -1,14 +1,14 @@
-### Hi there 👋 My name is Lee Jeongmin !
+<div align="center">
 
-## Portfolio
-- [Dept. of Intelligent Mechatronic Engineering](http://imc.sejong.ac.kr/page/sub2_1) (2018. 03. ~ 2023. 02.)
-- 42Seoul 7th Cadet (2022. 07. ~ )
-- 📨 yesuel1111@naver.com
+![header](https://capsule-render.vercel.app/api?type=wave&color=66ccff&height=200&section=header&text=Jeongmin%20Lee&fontSize=80&fontColor=ffffff)
 
+## ✨ Interests
+`Back-end` / `Linux`
 
-### ✨ Interests
-- `Back-end` 
-- `Linux`
+### About me!
+[Dept. of Intelligent Mechatronic Engineering](http://imc.sejong.ac.kr/page/sub2_1) <br> (2018. 03. ~ 2023. 02.) <br> - <br> 
+42Seoul 7th Cadet (2022. 07. ~ ) <br> 
+Naver BoostCamp 8th Challenge & Membership (2023. 07. ~ 2023. 12) <br>
 
 <br>
 
@@ -16,67 +16,94 @@
 ![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
+![NestJS](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=NestJS&logoColor=white)
 ![Spring](https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=6DB33F&logo=Spring&logoColor=FFFFFF&label=)
 
 <br>
 
-### 📚  Experienced Tech Stack
+<h4>
+<details>
+<summary>📚  Experienced Tech Stack </summary>
+<div markdown="1"><br>
+          
 <div>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"> 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"> 
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"> 
-<img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/Qgis-589632?style=flat&logo=Qgis&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white">
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff"> 
+<img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeORM-FF4716?style=flat-square&logo=typeorm&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Jest-341f0e?style=flat-square&logo=jest&logoColor=FF0000">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> 
+<img src="https://img.shields.io/badge/Nginx-014532?style=flat-square&logo=Nginx&logoColor=009639&">
+<img src="https://img.shields.io/badge/Github Actions-2671E5?style=flat-square&logo=GitHub%20Actions&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"> 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"> 
+<img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+<img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white">
+</div>
+</div>
+</details>
+</h4>
+
+
+<br>
 </div>
 
+<h3>
+<details>
+<summary>⚡  Experience and Study </summary>
+<div markdown="1">
 <br>
-
-### ⚡ Experience and Study
-
+  
 - Sejong Univ. C/Python programming class TA, September 2019 - June 2021
 - Sejong Univ. Algorithm in C programming class TA, September 2022 - December 2022
-###
 - [kaggle study(Dacon study)](https://github.com/Sejong-Kaggle-Challengers/jeongmin), December 2020 - March 2021
+- Back-end study, September 2022 - December 2022
 - [Algorithm study](https://github.com/mingxoxo/Algorithm), - Present
-- Back-end study, September 2022 - Present
 
-<br>
+</div>
+</details>
+</h3>
 
-### 🔥 Project
+<h3>
+<details>
+<summary>🔥  Project</summary><br>
 
-- [DON-T_WORRY_MAMA_PAPA](https://github.com/mingxoxo/SW_DON-T_WORRY_MAMA_PAPA.git)
-  <br>: 어린이집 차량 운행 후 빈 차량에 내리지 못하고 남아있는 어린이를 확인할 수 있는 센서와 어플 제작
-  - Arduino / App Inventor
+| 기간 | 프로젝트명 | 분야 | 역할 | 
+| --- | --- | --- | --- |
+| 2024.01 | <a href="https://github.com/wonyangs/webserv">webserv</a> | HTTP 서버 | config, HTTP Request 파싱, <br> HTTP Response 전송 | 
+| 2023.11 <br> ~ 2023.12 | <a href="https://github.com/boostcampwm2023/web08-ByeolSoop">당신의 이야기를 잇는 다이어리 서비스, 별숲</a> | 웹 | 웹 백엔드 | 
+| 2023.05 | <a href="https://github.com/peer-42seoul/peer-noti">동아리 슬랙봇 알림 서비스 개발</a> | 웹 | 메시지 전송용 관리자 페이지 구축 | 
+| 2023.01 | <a href="https://github.com/mingxoxo/minishell">minishell</a> | CS | 입력 토큰화 및 파싱, 환경변수 처리 | 
+| 2022.11 <br> ~ 2022.12 | <a href="https://github.com/LeeJinSoo-BIN/BINARY-ESG">다중 이용 시설의 효율적인 좌석 관리 서비스</a> | 인공지능, 웹 | 기획, 인공지능 서버와 웹 서버 연결, <br> 모델 예측 후처리(NMS) |
+| 2021.09 <br> ~ 2021.10 | <a href="https://drive.google.com/file/d/1r9PwK2K33wpnVL4RTW6Sl33l7moahEBz/view">교통약자 중심 서울시 스마트쉘터 최적입지 선정</a> | 데이터 분석 | 기획, 데이터 전처리 및 분석 | 
+| 2021.08 | <a href="https://drive.google.com/file/d/1k7JAuDbRmn7vxJp697gbPBd1FYXw31Wk/view">고속도로 휴게소 내 공공 의료기관 최적입지 선정</a> | 데이터 분석 | 기획, 군집분석 및 시각화 | 
+| 2021.03 <br> ~ 2021.06 | <a href="https://drive.google.com/file/d/1k7JAuDbRmn7vxJp697gbPBd1FYXw31Wk/view">스마트폰을 활용한 우울증 진단 기술 연구</a> | 인공지능, 앱 | 가공 데이터셋 제작, <br> 스마트폰 센서 데이터 취득 앱 개발 | 
+| 2019.10 <br> ~ 2019.12 | <a href="https://github.com/mingxoxo/paiks-recipe">Paik's Recipe</a> | 웹 | 기획, 웹 프론트엔드 | 
+| 2019.09 <br> ~ 2019.12 | <a href="https://github.com/mingxoxo/SW_DON-T_WORRY_MAMA_PAPA">DON'T WORRY MAMA PAPA</a> | IoT | 기획, 아두이노 회로 제작 및 코드 작성 | 
+</details>
+</h3>
 
-- [Image stitching](https://mingxoxo-record.tistory.com/60)
-  <br>: 3개의 이미지 Panorama 구현
-  - C++
-  - OpenCV
-
-- [Paiks Recipe](https://github.com/mingxoxo/web-programming-project)
-  <br>: 백종원선생님의 유튜브 요리 강의를 외국인들이 한번에 볼 수 있는 사이트 구현
-  - web-programming project
-  - html&css, javascript, jquery, bootstrap
-
-- [The Number Baseball Game](https://github.com/mingxoxo/Number_baseball_game)
-  <br>: client-server programs for the Number Baseball Game (Computer Network class project assignment)
-  - Python3.7
-  - socket programming(local host)
+<h3>
+<details>
+<summary><img src="https://img.shields.io/badge/-000000?style=flat&logo=42&logoColor=white">42born2code 
+ </summary><br>
   
-<br>
-
-### <img src="https://img.shields.io/badge/-000000?style=flat&logo=42&logoColor=white"> 42born2code 
-
 [![jeongmin's 42 stats](https://badge.mediaplus.ma/kettlebells/jeongmin?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-[![jeongmin's 42 stats](https://badge42.vercel.app/api/v2/cl5nlwcb8002509mg2vnd3o3j/stats?cursusId=21&coalitionId=85)](https://profile.intra.42.fr/users/jeongmin)
+
+</details>
+</h3>
 
 ### Solved.ac
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yesuel1111)](https://solved.ac/yesuel1111)
 <a href="https://solved.ac/yesuel1111"><img src="http://mazandi.herokuapp.com/api?handle=yesuel1111&theme=warm"/></a>
+
+
