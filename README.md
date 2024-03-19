@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=66ccff&height=200&section=header&text=Jeongmin%20Lee&fontSize=80&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=wave&color=365AA1&height=200&section=header&text=Jeongmin%20Lee&fontSize=80&fontColor=b0c4de)
 
 ## ✨ Interests
 `Back-end` / `Linux`
