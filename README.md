@@ -86,7 +86,7 @@ Naver BoostCamp 8th Challenge & Membership (2023. 07. ~ 2023. 12) <br>
 | 2022.11 <br> ~ 2022.12 | <a href="https://github.com/LeeJinSoo-BIN/BINARY-ESG">다중 이용 시설의 효율적인 좌석 관리 서비스</a> | 인공지능, 웹 | 기획, 인공지능 서버와 웹 서버 연결, <br> 모델 예측 후처리(NMS) |
 | 2021.09 <br> ~ 2021.10 | <a href="https://drive.google.com/file/d/1r9PwK2K33wpnVL4RTW6Sl33l7moahEBz/view">교통약자 중심 서울시 스마트쉘터 최적입지 선정</a> | 데이터 분석 | 기획, 데이터 전처리 및 분석 | 
 | 2021.08 | <a href="https://drive.google.com/file/d/1k7JAuDbRmn7vxJp697gbPBd1FYXw31Wk/view">고속도로 휴게소 내 공공 의료기관 최적입지 선정</a> | 데이터 분석 | 기획, 군집분석 및 시각화 | 
-| 2021.03 <br> ~ 2021.06 | <a href="https://drive.google.com/file/d/1k7JAuDbRmn7vxJp697gbPBd1FYXw31Wk/view">스마트폰을 활용한 우울증 진단 기술 연구</a> | 인공지능, 앱 | 가공 데이터셋 제작, <br> 스마트폰 센서 데이터 취득 앱 개발 | 
+| 2021.03 <br> ~ 2021.06 | <a href="https://youtu.be/ER27MGdBvEk?si=XHwZ2B8EY6s66HUE">스마트폰을 활용한 우울증 진단 기술 연구</a> | 인공지능, 앱 | 가공 데이터셋 제작, <br> 스마트폰 센서 데이터 취득 앱 개발 | 
 | 2019.10 <br> ~ 2019.12 | <a href="https://github.com/mingxoxo/paiks-recipe">Paik's Recipe</a> | 웹 | 기획, 웹 프론트엔드 | 
 | 2019.09 <br> ~ 2019.12 | <a href="https://github.com/mingxoxo/SW_DON-T_WORRY_MAMA_PAPA">DON'T WORRY MAMA PAPA</a> | IoT | 기획, 아두이노 회로 제작 및 코드 작성 | 
 </details>
