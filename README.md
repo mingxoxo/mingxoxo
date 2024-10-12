@@ -1,26 +1,17 @@
-<div align="center">
-
 ![header](https://capsule-render.vercel.app/api?type=wave&color=365AA1&height=200&section=header&text=Jeongmin%20Lee&fontSize=80&fontColor=b0c4de)
 
-## ✨ Interests
-`Back-end`
 
 ### About me!
-[Dept. of Intelligent Mechatronic Engineering](http://imc.sejong.ac.kr/page/sub2_1) <br> (2018. 03. ~ 2023. 02.) <br> - <br> 
-42Seoul 7th Cadet (2022. 07. ~ ) <br> 
-Naver BoostCamp 8th Challenge & Membership (2023. 07. ~ 2023. 12) <br>
+- [Dept. of Intelligent Mechatronic Engineering](http://imc.sejong.ac.kr/page/sub2_1) (2018. 03. ~ 2023. 02.)
+- 42Seoul 7th Cadet (2022. 07. ~ 2024.05)
+- Naver BoostCamp 8th Challenge & Membership (2023. 07. ~ 2023. 12)
 
-<br>
-
-### 🌱 I’m currently learning
+#### 🌱 I’m currently learning
 ![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
-![NestJS](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=NestJS&logoColor=white)
+![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=FCC624&logo=Linux&logoColor=white&label=)
 
-<br>
-
-<h4>
 <details>
 <summary>📚  Experienced Tech Stack </summary>
 <div markdown="1"><br>
@@ -51,13 +42,7 @@ Naver BoostCamp 8th Challenge & Membership (2023. 07. ~ 2023. 12) <br>
 </div>
 </div>
 </details>
-</h4>
 
-
-<br>
-</div>
-
-<h3>
 <details>
 <summary>⚡  Experience and Study </summary>
 <div markdown="1">
@@ -71,14 +56,13 @@ Naver BoostCamp 8th Challenge & Membership (2023. 07. ~ 2023. 12) <br>
 
 </div>
 </details>
-</h3>
 
-<h3>
 <details>
 <summary>🔥  Project</summary><br>
 
 | 기간 | 프로젝트명 | 분야 | 역할 | 
 | --- | --- | --- | --- |
+| 2024.02 <br> ~ 2024.05  | <a href="https://github.com/authenticity-house/ft_transcendence"> 친구와 함께 즐길 수 있는 온라인 PONG 게임 웹서비스, <br> PONG PONG PONG! </a> | 웹 | 웹 백엔드, <br> 로컬 1vs1 웹소켓 규약 정의 및 설계 | 
 | 2024.01 | <a href="https://github.com/wonyangs/webserv">webserv</a> | HTTP 서버 | config, HTTP Request 파싱, <br> HTTP Response 전송 | 
 | 2023.11 <br> ~ 2023.12 | <a href="https://github.com/boostcampwm2023/web08-ByeolSoop">당신의 이야기를 잇는 다이어리 서비스, 별숲</a> | 웹 | 웹 백엔드 | 
 | 2023.05 | <a href="https://github.com/peer-42seoul/peer-noti">동아리 슬랙봇 알림 서비스 개발</a> | 웹 | 메시지 전송용 관리자 페이지 구축 | 
@@ -90,9 +74,7 @@ Naver BoostCamp 8th Challenge & Membership (2023. 07. ~ 2023. 12) <br>
 | 2019.10 <br> ~ 2019.12 | <a href="https://github.com/mingxoxo/paiks-recipe">Paik's Recipe</a> | 웹 | 기획, 웹 프론트엔드 | 
 | 2019.09 <br> ~ 2019.12 | <a href="https://github.com/mingxoxo/SW_DON-T_WORRY_MAMA_PAPA">DON'T WORRY MAMA PAPA</a> | IoT | 기획, 아두이노 회로 제작 및 코드 작성 | 
 </details>
-</h3>
 
-<h3>
 <details>
 <summary><img src="https://img.shields.io/badge/-000000?style=flat&logo=42&logoColor=white">42born2code 
  </summary><br>
@@ -100,7 +82,6 @@ Naver BoostCamp 8th Challenge & Membership (2023. 07. ~ 2023. 12) <br>
 [![jeongmin's 42 stats](https://badge.mediaplus.ma/kettlebells/jeongmin?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 </details>
-</h3>
 
 ### Solved.ac
 
